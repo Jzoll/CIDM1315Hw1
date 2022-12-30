@@ -1,0 +1,35 @@
+html {
+  background-color: rgb(103, 149, 121);
+}
+
+main {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding-top: 20px;
+}
+
+section {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.multilevel {
+  list-style-type: circle;
+  margin: 15px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  /* width: 50%; */
+}
+
+.center {
+  text-align: center;
+}
+
